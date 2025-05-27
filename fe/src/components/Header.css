@@ -1,0 +1,10 @@
+.navBar:before {
+    content: "";
+    background: linear-gradient(90deg, #0000, #222, #0000);
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    
+}
